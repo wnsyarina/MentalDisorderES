@@ -61,24 +61,24 @@ $questions = [
         'category' => 'psychosis'
     ],
     'q16' => [
-        'text' => 'Feeling that others are against you or want to harm you',
-        'category' => 'psychosis'
+        'text' => 'Eating until you are uncontrollably full',
+        'category' => 'eating disorder'
     ],
     'q17' => [
-        'text' => 'Periods of unusually elevated mood or irritability',
-        'category' => 'bipolar'
+        'text' => 'Feeling distressed, ashamed or guilty about eating',
+        'category' => 'eating disorder'
     ],
     'q18' => [
-        'text' => 'Periods of decreased need for sleep',
-        'category' => 'bipolar'
+        'text' => 'Eating alone or in secret to avoid embarrassment',
+        'category' => 'eating disorder'
     ],
     'q19' => [
-        'text' => 'Periods of talking more or faster than usual',
-        'category' => 'bipolar'
+        'text' => 'Eating unusually large amounts of food in a specific amount of time',
+        'category' => 'eating disorder'
     ],
     'q20' => [
-        'text' => 'Periods of racing thoughts',
-        'category' => 'bipolar'
+        'text' => 'Eating even when you are full or not hungry',
+        'category' => 'eating disorder'
     ],
 ];
 ?>
