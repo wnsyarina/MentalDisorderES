@@ -36,6 +36,11 @@ $disorderInfo = [
         'name' => 'Bipolar Disorder',
         'description' => 'Characterized by extreme mood swings from emotional highs (mania) to lows (depression).',
         'recommendation' => 'Consult a psychiatrist for proper diagnosis. Treatment typically involves mood stabilizers and therapy.'
+    ],
+    'eating disorder' => [
+        'name' => 'Eating Disorder',
+        'description' => 'Eating disorders are behavioral conditions characterized by severe and persistent disturbance in eating behaviors and associated distressing thoughts and emotions..',
+        'recommendation' => 'A dietitian can help you learn healthy eating habits and behaviours. This will help you return to a healthy weight. '
     ]
 ];
 ?>
