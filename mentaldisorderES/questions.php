@@ -100,5 +100,30 @@ $questions = [
         'text' => 'Thoughts of death or suicide',
         'category' => 'depression'
     ],
+
+    'q26' => [
+        'text'=> 'Figeting or cannot stay still',
+        'category'=> 'ADHD'
+    ],
+
+    'q27' => [
+        'text'=> 'Misplaced or have difficulty finding things at home or work',
+        'category'=> 'ADHD'
+    ],
+
+    'q28' => [
+        'text'=> 'Difficulty following or completing task',
+        'category'=> 'ADHD'
+    ],
+
+    'q29' => [
+        'text'=> 'Often have mood swings',
+        'category'=> 'ADHD'
+    ],
+
+    'q30' => [
+        'text'=> 'Struggle with time management and planning',
+        'category'=> 'ADHD'
+    ],
 ];
 ?>
