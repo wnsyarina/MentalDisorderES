@@ -40,7 +40,12 @@ $disorderInfo = [
     'eating disorder' => [
         'name' => 'Eating Disorder',
         'description' => 'Eating disorders are behavioral conditions characterized by severe and persistent disturbance in eating behaviors and associated distressing thoughts and emotions..',
-        'recommendation' => 'A dietitian can help you learn healthy eating habits and behaviours. This will help you return to a healthy weight. '
+        'recommendation' => 'A dietitian can help you learn healthy eating habits and behaviours. This will help you return to a healthy weight.'
+    ],
+    'depression' => [
+        'name' => 'Depression',
+        'description' => 'A mood disorder that causes persistent feelings of sadness and loss of interest.',
+        'recommendation' => 'Consider consulting a mental health professional. Treatment may include therapy, medication, or lifestyle changes.'
     ]
 ];
 ?>

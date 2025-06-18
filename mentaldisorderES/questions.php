@@ -80,5 +80,25 @@ $questions = [
         'text' => 'Eating even when you are full or not hungry',
         'category' => 'eating disorder'
     ],
+    'q21' => [
+        'text' => 'Feeling sad or "empty"',
+        'category' => 'depression'
+    ],
+    'q22' => [
+        'text' => 'Loss of interest in favorite activities',
+        'category' => 'depression'
+    ],
+    'q23' => [
+        'text' => 'Overeating, or not wanting to eat at all',
+        'category' => 'depression'
+    ],
+    'q24' => [
+        'text' => 'Not being able to sleep, or sleeping too much',
+        'category' => 'depression'
+    ],
+    'q25' => [
+        'text' => 'Thoughts of death or suicide',
+        'category' => 'depression'
+    ],
 ];
 ?>

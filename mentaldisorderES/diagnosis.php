@@ -29,11 +29,12 @@ foreach ($questions as $id => $question) {
 
 // Calculate maximum possible scores for each category
 $maxScores = [
-    'depression' => 5 * 4, // 5 questions, max 4 points each
-    'anxiety' => 7 * 4,
-    'psychosis' => 4 * 4,
+    'anxiety' => 5 * 4, // 5 questions, max 4 points each
+    'OCD' => 7 * 4,
+    'ADHD' => 4 * 4,
     'bipolar' => 4 * 4,
-    'eating disorder' => 5*4
+    'eating disorder' => 5*4,
+    'depression' => 5*4
 ];
 
 // Calculate percentages
