@@ -46,6 +46,12 @@ $disorderInfo = [
         'name' => 'Depression',
         'description' => 'A mood disorder that causes persistent feelings of sadness and loss of interest.',
         'recommendation' => 'Consider consulting a mental health professional. Treatment may include therapy, medication, or lifestyle changes.'
+    ],
+
+    'ADHD' => [
+        'name'=> 'Attention Deficit/Hyperactivity Disorder (ADHD)',
+        'description' => 'A neurodevelopment disorder that includes combination of persistent problems like inattention, hyperactivity and impulsivity',
+        'recommendation' => 'Consult a mental health professional for proper diagnosis. Treatment may include behavior therapy, skills training, medications or psychological counseling.'
     ]
 ];
 ?>
