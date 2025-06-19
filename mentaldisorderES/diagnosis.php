@@ -14,8 +14,9 @@ $scores = [
     'depression' => 0,
     'anxiety' => 0,
     'OCD' => 0,
-    'bipolar' => 0,
-    'eating disorder' => 0
+    'eating disorder' => 0,
+    'ADHD' => 0
+
 ];
 
 // Calculate scores for each category
@@ -32,7 +33,6 @@ $maxScores = [
     'anxiety' => 5 * 4, // 5 questions, max 4 points each
     'OCD' => 5 * 4,
     'ADHD' => 5 * 4,
-    'bipolar' => 4 * 4,
     'eating disorder' => 5*4,
     'depression' => 5*4
 ];
