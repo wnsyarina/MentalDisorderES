@@ -21,24 +21,24 @@ $questions = [
         'category' => 'depression'
     ],
     'q6' => [
-        'text' => 'Feeling nervous, anxious, or on edge',
-        'category' => 'anxiety'
+        'text' => 'Recurring thoughts about harm coming to yourself or others',
+        'category' => 'OCD'
     ],
     'q7' => [
-        'text' => 'Not being able to stop or control worrying',
-        'category' => 'anxiety'
+        'text' => 'Fear of losing or misplacing things',
+        'category' => 'OCD'
     ],
     'q8' => [
-        'text' => 'Worrying too much about different things',
-        'category' => 'anxiety'
+        'text' => 'Repeatedly checking on things (such as doors, locks, or appliances) to ensure they are secure',
+        'category' => 'OCD'
     ],
     'q9' => [
-        'text' => 'Trouble relaxing',
-        'category' => 'anxiety'
+        'text' => 'Arranging things in a particular way even if it feels unnecessary',
+        'category' => 'OCD'
     ],
     'q10' => [
-        'text' => 'Being so restless that its hard to sit still',
-        'category' => 'anxiety'
+        'text' => 'Can not control thoughts and behaviour, even when you know that they are excessive',
+        'category' => 'OCD'
     ],
     'q11' => [
         'text' => 'Becoming easily annoyed or irritable',

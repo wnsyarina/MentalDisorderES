@@ -22,10 +22,10 @@ $disorderInfo = [
         'description' => 'A mood disorder that causes persistent feelings of sadness and loss of interest.',
         'recommendation' => 'Consider consulting a mental health professional. Treatment may include therapy, medication, or lifestyle changes.'
     ],
-    'anxiety' => [
-        'name' => 'Anxiety Disorder',
-        'description' => 'Characterized by excessive fear or anxiety that interferes with daily activities.',
-        'recommendation' => 'Cognitive behavioral therapy and relaxation techniques can help. Severe cases may benefit from medication.'
+    'OCD' => [
+        'name' => 'Obsessive-Compulsive Disorder (OCD)',
+        'description' => 'Characterized by features called obsessions - intrusive thoughts, mental images, or urges to perform specific actions and compulsions - consist of the repetitive performance of certain actions.',
+        'recommendation' => 'Consult a mental health professional. Treatment may include cognitive behavioral therapy (CBT), medications, or a combination of both, and in severe cases, repetitive transcranial magnetic stimulation (rTMS) may be used. '
     ],
     'psychosis' => [
         'name' => 'Psychotic Disorder',
