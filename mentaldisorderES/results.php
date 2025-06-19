@@ -17,42 +17,32 @@ $diagnoses = $results['diagnoses'];
 
 // Disorder information
 $disorderInfo = [
-    'depression' => [
-        'name' => 'Depression',
-        'description' => 'A mood disorder that causes persistent feelings of sadness and loss of interest.',
-        'recommendation' => 'Consider consulting a mental health professional. Treatment may include therapy, medication, or lifestyle changes.'
+    'anxiety' => [
+        'name' => 'Anxiety',
+        'description' => 'Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.',
+        'recommendation' => 'The main treatments for anxiety disorders are psychotherapy (talk therapy), medicines, or both.'
     ],
     'OCD' => [
         'name' => 'Obsessive-Compulsive Disorder (OCD)',
         'description' => 'Characterized by features called obsessions - intrusive thoughts, mental images, or urges to perform specific actions and compulsions - consist of the repetitive performance of certain actions.',
         'recommendation' => 'Consult a mental health professional. Treatment may include cognitive behavioral therapy (CBT), medications, or a combination of both, and in severe cases, repetitive transcranial magnetic stimulation (rTMS) may be used. '
     ],
-    'psychosis' => [
-        'name' => 'Psychotic Disorder',
-        'description' => 'Involves distorted thinking and awareness, including hallucinations or delusions.',
-        'recommendation' => 'Urgent professional evaluation is recommended. Early intervention improves outcomes.'
-    ],
-    'bipolar' => [
-        'name' => 'Bipolar Disorder',
-        'description' => 'Characterized by extreme mood swings from emotional highs (mania) to lows (depression).',
-        'recommendation' => 'Consult a psychiatrist for proper diagnosis. Treatment typically involves mood stabilizers and therapy.'
+    'ADHD' => [
+        'name'=> 'Attention Deficit/Hyperactivity Disorder (ADHD)',
+        'description' => 'A neurodevelopment disorder that includes combination of persistent problems like inattention, hyperactivity and impulsivity',
+        'recommendation' => 'Consult a mental health professional for proper diagnosis. Treatment may include behavior therapy, skills training, medications or psychological counseling.'
     ],
     'eating disorder' => [
         'name' => 'Eating Disorder',
         'description' => 'Eating disorders are behavioral conditions characterized by severe and persistent disturbance in eating behaviors and associated distressing thoughts and emotions..',
         'recommendation' => 'A dietitian can help you learn healthy eating habits and behaviours. This will help you return to a healthy weight.'
     ],
-    'depression' => [
+     'depression' => [
         'name' => 'Depression',
         'description' => 'A mood disorder that causes persistent feelings of sadness and loss of interest.',
         'recommendation' => 'Consider consulting a mental health professional. Treatment may include therapy, medication, or lifestyle changes.'
     ],
 
-    'ADHD' => [
-        'name'=> 'Attention Deficit/Hyperactivity Disorder (ADHD)',
-        'description' => 'A neurodevelopment disorder that includes combination of persistent problems like inattention, hyperactivity and impulsivity',
-        'recommendation' => 'Consult a mental health professional for proper diagnosis. Treatment may include behavior therapy, skills training, medications or psychological counseling.'
-    ]
 ];
 ?>
 <!DOCTYPE html>
