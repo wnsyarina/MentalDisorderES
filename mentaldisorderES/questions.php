@@ -1,24 +1,24 @@
 <?php
 $questions = [
     'q1' => [
-        'text' => 'Little interest or pleasure in doing things',
-        'category' => 'depression'
+        'text' => 'Experience shortness of breath',
+        'category' => 'anxiety'
     ],
     'q2' => [
-        'text' => 'Feeling down, depressed, or hopeless',
-        'category' => 'depression'
+        'text' => 'Experience rapid heartbeat',
+        'category' => 'anxiety'
     ],
     'q3' => [
-        'text' => 'Trouble falling or staying asleep, or sleeping too much',
-        'category' => 'depression'
+        'text' => 'Feeling anxious/nervousness/on edge for long periods of time',
+        'category' => 'anxiety'
     ],
     'q4' => [
-        'text' => 'Feeling tired or having little energy',
-        'category' => 'depression'
+        'text' => 'Experience panic attacks',
+        'category' => 'anxiety'
     ],
     'q5' => [
-        'text' => 'Poor appetite or overeating',
-        'category' => 'depression'
+        'text' => 'Caffeine or other substances makes you anxious',
+        'category' => 'anxiety'
     ],
     'q6' => [
         'text' => 'Recurring thoughts about harm coming to yourself or others',
@@ -40,27 +40,32 @@ $questions = [
         'text' => 'Can not control thoughts and behaviour, even when you know that they are excessive',
         'category' => 'OCD'
     ],
+
     'q11' => [
-        'text' => 'Becoming easily annoyed or irritable',
-        'category' => 'anxiety'
+        'text'=> 'Figeting or cannot stay still',
+        'category'=> 'ADHD'
     ],
+
     'q12' => [
-        'text' => 'Feeling afraid as if something awful might happen',
-        'category' => 'anxiety'
+        'text'=> 'Misplaced or have difficulty finding things at home or work',
+        'category'=> 'ADHD'
     ],
+
     'q13' => [
-        'text' => 'Hearing voices other people don\'t hear',
-        'category' => 'psychosis'
+        'text'=> 'Difficulty following or completing task',
+        'category'=> 'ADHD'
     ],
+
     'q14' => [
-        'text' => 'Seeing things other people don\'t see',
-        'category' => 'psychosis'
+        'text'=> 'Often have mood swings',
+        'category'=> 'ADHD'
     ],
+
     'q15' => [
-        'text' => 'Believing things that others find unusual',
-        'category' => 'psychosis'
+        'text'=> 'Struggle with time management and planning',
+        'category'=> 'ADHD'
     ],
-    'q16' => [
+     'q16' => [
         'text' => 'Eating until you are uncontrollably full',
         'category' => 'eating disorder'
     ],
@@ -80,7 +85,7 @@ $questions = [
         'text' => 'Eating even when you are full or not hungry',
         'category' => 'eating disorder'
     ],
-    'q21' => [
+     'q21' => [
         'text' => 'Feeling sad or "empty"',
         'category' => 'depression'
     ],
@@ -99,31 +104,6 @@ $questions = [
     'q25' => [
         'text' => 'Thoughts of death or suicide',
         'category' => 'depression'
-    ],
-
-    'q26' => [
-        'text'=> 'Figeting or cannot stay still',
-        'category'=> 'ADHD'
-    ],
-
-    'q27' => [
-        'text'=> 'Misplaced or have difficulty finding things at home or work',
-        'category'=> 'ADHD'
-    ],
-
-    'q28' => [
-        'text'=> 'Difficulty following or completing task',
-        'category'=> 'ADHD'
-    ],
-
-    'q29' => [
-        'text'=> 'Often have mood swings',
-        'category'=> 'ADHD'
-    ],
-
-    'q30' => [
-        'text'=> 'Struggle with time management and planning',
-        'category'=> 'ADHD'
     ],
 ];
 ?>
